@@ -3,11 +3,17 @@ h1{
 }
 
 img{
-display:inline-block;
+   display:inline-block;
+   height: 30px;
+   width: auto;
+}
+
+header{
+   background-color: #b14efc
 }
 
 body{
-background-color: #cf9;
+   background-color: #d4a3ff;
 }
 
 td, section, li.stud{
