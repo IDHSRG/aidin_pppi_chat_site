@@ -3,12 +3,14 @@ h1{
    margin-right: 20px;
    font-family: Impact, Charcoal, sans-serif; 
    font-size: 35px;
+   vertical-align: middle;
 }
 
 img{
    display:inline-block;
-   height: 50px;
+   height: 100px;
    width: auto;
+   vertical-align: middle;
 }
 
 header{
